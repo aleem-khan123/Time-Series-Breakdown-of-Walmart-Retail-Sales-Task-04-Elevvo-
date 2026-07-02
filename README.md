@@ -62,7 +62,7 @@ The task focused on analyzing **Walmart’s historical sales data** to identify 
  ## Author
 
 - Aleem Shoukat
-- Gmail- iamaleemmm@gmail.com
+- Gmail- aleemshoukat91@gmail.com
 - Linked in-www.linkedin.com/in/aleem-shoukat-9bb3b6356
 
 ⭐ If you found this project useful, feel free to star this repository!
